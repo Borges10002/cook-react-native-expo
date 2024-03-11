@@ -1,0 +1,2 @@
+executar
+npx cross-env EXPO_NO_DOTENV=1 expo start   
